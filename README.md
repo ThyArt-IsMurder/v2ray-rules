@@ -3,8 +3,7 @@
 
 This is an Enhanced and All-in-One set of geo-location routing files optimized for Iranian users to use in v2ray/xray and all their compatible clients.
 
-:bulb: For Sing-Box geolocation rules please refer to [Iran Sing-Box Rules](https://github.com/Chocolate4U/Iran-sing-box-rules)  
-:bulb: For Clash geolocation rules please refer to [Iran Clash Rules](https://github.com/Chocolate4U/Iran-clash-rules)
+:bulb: For Clash geolocation rules please refer to [Iran Clash Rules](https://github.com/ThyArt-IsMurder/Iran-clash-rules)
 
 # :arrow_down: How to download
 
