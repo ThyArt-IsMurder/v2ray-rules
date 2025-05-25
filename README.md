@@ -12,7 +12,7 @@ This is an Enhanced and All-in-One set of geo-location routing files optimized f
 
 ### geoip.dat
 
-[https://raw.githubusercontent.com/Chocolate4U/Iran-v2ray-rules/release/geoip.dat](https://raw.githubusercontent.com/Chocolate4U/Iran-v2ray-rules/release/geoip.dat)
+[https://raw.githubusercontent.com/ThyArt-IsMurder/v2ray-rules/release/geoip.dat](https://raw.githubusercontent.com/ThyArt-IsMurder/v2ray-rules/release/geoip.dat)
 
 <details>
   <summary><strong>QR Code</strong></summary>
@@ -23,7 +23,7 @@ This is an Enhanced and All-in-One set of geo-location routing files optimized f
 
 ### geosite.dat
 
-[https://raw.githubusercontent.com/Chocolate4U/Iran-v2ray-rules/release/geosite.dat](https://raw.githubusercontent.com/Chocolate4U/Iran-v2ray-rules/release/geosite.dat)
+[https://raw.githubusercontent.com/ThyArt-IsMurder/v2ray-rules/release/geosite.dat](https://raw.githubusercontent.com/ThyArt-IsMurder/v2ray-rules/release/geosite.dat)
 
 <details>
   <summary><strong>QR Code</strong></summary>
@@ -34,7 +34,7 @@ This is an Enhanced and All-in-One set of geo-location routing files optimized f
 
 ### geoip-lite.dat
 
-[https://raw.githubusercontent.com/Chocolate4U/Iran-v2ray-rules/release/geoip-lite.dat](https://raw.githubusercontent.com/Chocolate4U/Iran-v2ray-rules/release/geoip-lite.dat)
+[https://raw.githubusercontent.com/ThyArt-IsMurder/v2ray-rules/release/geoip-lite.dat](https://raw.githubusercontent.com/ThyArt-IsMurder/v2ray-rules/release/geoip-lite.dat)
 
 <details>
   <summary><strong>QR Code</strong></summary>
@@ -45,7 +45,7 @@ This is an Enhanced and All-in-One set of geo-location routing files optimized f
 
 ### geosite-lite.dat
 
-[https://raw.githubusercontent.com/Chocolate4U/Iran-v2ray-rules/release/geosite-lite.dat](https://raw.githubusercontent.com/Chocolate4U/Iran-v2ray-rules/release/geosite-lite.dat)
+[https://raw.githubusercontent.com/ThyArt-IsMurder/v2ray-rules/release/geosite-lite.dat](https://raw.githubusercontent.com/ThyArt-IsMurder/v2ray-rules/release/geosite-lite.dat)
 
 <details>
   <summary><strong>QR Code</strong></summary>
@@ -56,7 +56,7 @@ This is an Enhanced and All-in-One set of geo-location routing files optimized f
 
 ### security-ip.dat
 
-[https://raw.githubusercontent.com/Chocolate4U/Iran-v2ray-rules/release/security-ip.dat](https://raw.githubusercontent.com/Chocolate4U/Iran-v2ray-rules/release/security-ip.dat)
+[https://raw.githubusercontent.com/ThyArt-IsMurder/v2ray-rules/release/security-ip.dat](https://raw.githubusercontent.com/ThyArt-IsMurder/v2ray-rules/release/security-ip.dat)
 
 <details>
   <summary><strong>QR Code</strong></summary>
@@ -67,7 +67,7 @@ This is an Enhanced and All-in-One set of geo-location routing files optimized f
 
 ### security.dat
 
-[https://raw.githubusercontent.com/Chocolate4U/Iran-v2ray-rules/release/security.dat](https://raw.githubusercontent.com/Chocolate4U/Iran-v2ray-rules/release/security.dat)
+[https://raw.githubusercontent.com/ThyArt-IsMurder/v2ray-rules/release/security.dat](https://raw.githubusercontent.com/ThyArt-IsMurder/v2ray-rules/release/security.dat)
 
 <details>
   <summary><strong>QR Code</strong></summary>
@@ -80,7 +80,7 @@ This is an Enhanced and All-in-One set of geo-location routing files optimized f
 
 ### geoip.dat
 
-[https://cdn.jsdelivr.net/gh/chocolate4u/Iran-v2ray-rules@release/geoip.dat](https://cdn.jsdelivr.net/gh/chocolate4u/Iran-v2ray-rules@release/geoip.dat)
+[https://cdn.jsdelivr.net/gh/ThyArt-IsMurder/v2ray-rules@release/geoip.dat](https://cdn.jsdelivr.net/gh/ThyArt-IsMurder/v2ray-rules@release/geoip.dat)
 
 <details>
   <summary><strong>QR Code</strong></summary>
@@ -91,7 +91,7 @@ This is an Enhanced and All-in-One set of geo-location routing files optimized f
 
 ### geosite.dat
 
-[https://cdn.jsdelivr.net/gh/chocolate4u/Iran-v2ray-rules@release/geosite.dat](https://cdn.jsdelivr.net/gh/chocolate4u/Iran-v2ray-rules@release/geosite.dat)
+[https://cdn.jsdelivr.net/gh/ThyArt-IsMurder/v2ray-rules@release/geosite.dat](https://cdn.jsdelivr.net/gh/ThyArt-IsMurder/v2ray-rules@release/geosite.dat)
 
 <details>
   <summary><strong>QR Code</strong></summary>
@@ -102,7 +102,7 @@ This is an Enhanced and All-in-One set of geo-location routing files optimized f
 
 ### geoip-lite.dat
 
-[https://cdn.jsdelivr.net/gh/chocolate4u/Iran-v2ray-rules@release/geoip-lite.dat](https://cdn.jsdelivr.net/gh/chocolate4u/Iran-v2ray-rules@release/geoip-lite.dat)
+[https://cdn.jsdelivr.net/gh/ThyArt-IsMurder/v2ray-rules@release/geoip-lite.dat](https://cdn.jsdelivr.net/gh/ThyArt-IsMurder/v2ray-rules@release/geoip-lite.dat)
 
 <details>
   <summary><strong>QR Code</strong></summary>
@@ -113,7 +113,7 @@ This is an Enhanced and All-in-One set of geo-location routing files optimized f
 
 ### geosite-lite.dat
 
-[https://cdn.jsdelivr.net/gh/chocolate4u/Iran-v2ray-rules@release/geosite-lite.dat](https://cdn.jsdelivr.net/gh/chocolate4u/Iran-v2ray-rules@release/geosite-lite.dat)
+[https://cdn.jsdelivr.net/gh/ThyArt-IsMurder/v2ray-rules@release/geosite-lite.dat](https://cdn.jsdelivr.net/gh/ThyArt-IsMurder/v2ray-rules@release/geosite-lite.dat)
 
 <details>
   <summary><strong>QR Code</strong></summary>
@@ -124,7 +124,7 @@ This is an Enhanced and All-in-One set of geo-location routing files optimized f
 
 ### security-ip.dat
 
-[https://cdn.jsdelivr.net/gh/chocolate4u/Iran-v2ray-rules@release/security-ip.dat](https://cdn.jsdelivr.net/gh/chocolate4u/Iran-v2ray-rules@release/security-ip.dat)
+[https://cdn.jsdelivr.net/gh/ThyArt-IsMurder/v2ray-rules@release/security-ip.dat](https://cdn.jsdelivr.net/gh/ThyArt-IsMurder/v2ray-rules@release/security-ip.dat)
 
 <details>
   <summary><strong>QR Code</strong></summary>
@@ -135,7 +135,7 @@ This is an Enhanced and All-in-One set of geo-location routing files optimized f
 
 ### security.dat
 
-[https://cdn.jsdelivr.net/gh/chocolate4u/Iran-v2ray-rules@release/security.dat](https://cdn.jsdelivr.net/gh/chocolate4u/Iran-v2ray-rules@release/security.dat)
+[https://cdn.jsdelivr.net/gh/ThyArt-IsMurder/v2ray-rules@release/security.dat](https://cdn.jsdelivr.net/gh/ThyArt-IsMurder/v2ray-rules@release/security.dat)
 
 <details>
   <summary><strong>QR Code</strong></summary>
